@@ -1,2 +1,3 @@
-# mark-as-read
-Mark posts as read
+# Mark as read
+
+Mark posts as read.
